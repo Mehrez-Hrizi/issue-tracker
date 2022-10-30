@@ -1,5 +1,8 @@
 # IssueTracker
 
+Is Angular application for managing and tracking issues using
+reactive forms and Clarity Design System.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.18.
 
 ## Development server
